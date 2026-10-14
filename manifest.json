@@ -1,7 +1,7 @@
 {
-  "name": "Pencatatan Kas Kecil",
-  "short_name": "KasKecil",
-  "start_url": "index.html",
+  "name": "The Ritz Laporan",
+  "short_name": "Laporan",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f6f9",
   "theme_color": "#107c41",
